@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Aniket Ray
-- 👀 I’m interested in developing software
-- 🌱 I’m currently learning programming
+# React + Vite - This is made by Aniket Ray
 
-- 📫 How to reach me rayaniket6404@gmail.com
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<!---
-rayvinith/rayvinith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
